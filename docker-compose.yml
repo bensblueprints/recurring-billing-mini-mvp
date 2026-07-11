@@ -1,0 +1,21 @@
+services:
+  billoop:
+    build: .
+    container_name: billoop
+    restart: unless-stopped
+    ports:
+      - "5358:5358"
+    environment:
+      - PORT=5358
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me}
+      - DB_PATH=/app/data/billoop.db
+      - SMTP_HOST=${SMTP_HOST:-}
+      - SMTP_PORT=${SMTP_PORT:-587}
+      - SMTP_USER=${SMTP_USER:-}
+      - SMTP_PASS=${SMTP_PASS:-}
+      - SMTP_FROM=${SMTP_FROM:-}
+    volumes:
+      - billoop-data:/app/data
+
+volumes:
+  billoop-data:
