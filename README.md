@@ -60,7 +60,7 @@ Node 20+ · Express · better-sqlite3 · React (Vite) · Tailwind CSS · Framer 
 ## ☕ Skip the setup — get the 1-click installer
 
 Want the packaged Windows installer + updates without touching a terminal?
-**[Get Billoop on Whop → https://whop.com/onetime-suite](https://whop.com/onetime-suite)**
+**[Get Billoop on Whop → https://whop.com/benjisaiempire/billoop](https://whop.com/benjisaiempire/billoop)**
 
 ## License
 
