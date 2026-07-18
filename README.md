@@ -1,5 +1,9 @@
 # 🔁 Billoop — recurring billing on your own Stripe, owned forever
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Pay once. Own it forever. No subscription (to manage your subscriptions).**
