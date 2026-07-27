@@ -1,5 +1,11 @@
 # 🔁 Billoop — recurring billing on your own Stripe, owned forever
 
+## Get the packaged app
+
+Don't want to build from source? Get the signed installer, lifetime updates and setup support for a one-time payment at [onetimesuite.com/billoop](https://onetimesuite.com/billoop/) — same app, MIT source right here.
+
+Part of [OneTimeSuite](https://onetimesuite.com) — pay-once alternatives to subscription software.
+
 ## Demo
 
 
